@@ -1,8 +1,8 @@
 {
-	"author":"Julio Paiz",
+	"author": "Julio Paiz",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.17.3"
 	},
 	"main": "server.js",
 	"scripts": {
