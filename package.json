@@ -1,0 +1,14 @@
+{
+	"name": "Julio E. Paiz B.",
+	"dependencies": {
+		"express": "^4.17.3"
+	},
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://idontknow/todo.git"
+	}
+}
