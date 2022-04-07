@@ -2,7 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Julio Paiz",
 	"dependencies": {
-    "moment": "^2.10.2",
+    		"moment": "^2.10.2",
 		"express": "^4.17.3",
 		"moment": "^2.10.2"
 	},
